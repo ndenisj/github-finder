@@ -5,10 +5,10 @@ class Users extends Component {
   state = {
     users: [
       {
-        id: "1",
-        login: "mojombo",
-        avatar_url: "https://avatars0.githubusercontent.com/u/1?v=4",
-        html_url: "https://github.com/mojombo"
+        id: "45005671",
+        login: "ndenisj",
+        avatar_url: "https://avatars3.githubusercontent.com/u/45005671?v=4",
+        html_url: "https://github.com/ndenisj"
       },
       {
         id: "2",
